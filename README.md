@@ -1,1 +1,1 @@
-# P1---Guess-My-Number
+# JavaScript P1 - Guess-My-Number
